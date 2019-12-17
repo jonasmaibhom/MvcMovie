@@ -12,7 +12,7 @@ using Xunit;
 
 namespace MvcMovieUnitTest
 {
-    public class UnitTest1
+    public class HomeControllerTests
     {
         [Fact]
         public async Task Index_ReturnsAViewResult_WithAListOfMovies()
